@@ -1,0 +1,23 @@
+{
+  "id": "2561495",
+  "name": "try",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11686862",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "9402934",
+      "name": "尖括号",
+      "font_class": "changyongicon-",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
